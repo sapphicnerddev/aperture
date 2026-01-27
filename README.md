@@ -8,7 +8,7 @@ These are safe, idiomatic APIs for Steamworks built on top of a well contained F
 This API exists to bridge the gap between Steam (which is dominantly in C++ and C) and **your** games written in Rust.
 
 > [!NOTE]
-> This project does not aim to replace `[steamworks-rs](https://github.com/Noxime/steamworks-rs)`; it is an independant implementation with a different scope and philosophy.
+> This project does not aim to replace [`steamworks-rs`](https://github.com/Noxime/steamworks-rs); it is an independant implementation with a different scope and philosophy.
 
 ## What this is not
 
