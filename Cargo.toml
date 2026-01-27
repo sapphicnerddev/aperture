@@ -1,0 +1,10 @@
+# Workspace toml file
+#
+
+[workspace]
+members = [
+    "aperture-sys",
+    "aperture"
+]
+
+resolver = "2"

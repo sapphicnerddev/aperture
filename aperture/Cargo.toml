@@ -1,0 +1,8 @@
+[package]
+name = "aperture"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aperture-sys = { path = "../aperture-sys" }
+libc = "0.2.180"
