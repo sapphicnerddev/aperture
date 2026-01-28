@@ -7,3 +7,4 @@
 //! Coming soon: actual docs...
 
 pub mod loader;
+pub mod steamapps;
